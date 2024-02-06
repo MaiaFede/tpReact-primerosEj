@@ -3,7 +3,7 @@ function App() {
   
   return (
     <>
-      <PrimerosEjercicios></PrimerosEjercicios>
+      <PrimerosEjercicios person="my friend"></PrimerosEjercicios>
     </>
   )
 }
